@@ -9,3 +9,8 @@ The staging area is there so you can create a bulk commit to the working directo
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can use git status to view a list of what is in the staging area. If you are wanting to make one commit per logical change you will make sure there is just one change in the staging area. You can git reset or git reset --hard to remove changes from the staging area
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+They would be helpful if you're wanting to try something that might not work. So if you get to the end of the branch and it doesnt work you can always go back in your history to whent he game worked and start again with something different
+
