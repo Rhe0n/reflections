@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The plus and minus symbols made it easy
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If you make an error in your code which breaks your website/game/whatever you're making, you are able to go back to an older version thats working and try again.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros are you can make the save when you want. You know best when you've finished a chapter of code which may have fixed a problem. The autosave may have saved your code half way through this. Autosave could also just save too many versions making it hard to find the right change you want to go back to. The cons are you can forget about saving and make an error after 2 hours of coding without saving which you may need you to start from the start again.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think they allow multiple file saving because its faster to change them all at once than one at a time. The worst case scenario if one of them causes an error, Git has a back up from before any changes anyway.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log will show you a history of all commits, git diff can be used to show what code was changed in each commit
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because its so easy to go through previous versions and run it. Recognising the changes visually makes it easy to see the difference between versions and what one has caused the bug.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to be able to move the .bash and .sh files somewhere other than my home directory and still have the custom workspace work.
