@@ -6,3 +6,6 @@ How is the staging area different from the working directory and repository? Wha
 
 The staging area is there so you can create a bulk commit to the working directory. It saves time rather than commiting each file one by one.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can use git status to view a list of what is in the staging area. If you are wanting to make one commit per logical change you will make sure there is just one change in the staging area. You can git reset or git reset --hard to remove changes from the staging area
