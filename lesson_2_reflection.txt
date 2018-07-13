@@ -17,3 +17,11 @@ They would be helpful if you're wanting to try something that might not work. So
 How do diagrams help you visualize the branch structure?
 
 They help as you can see where each branch turns off and what commits are attached to each branch. Seeing the master as always the trunk as such as the tree
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is combining a seperate idea that has worked successfully into the master without risk of bugs. We represent it in the way of the diagram to show our process of how we got to where we are
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+The pros to automatic merging are you can work on a seperate idea without any risk of breaking anything. If the ideas a success you can easily merge it. The cons are the automatic merge will pick up conflicts but doesnt tell you exactly what they are.
