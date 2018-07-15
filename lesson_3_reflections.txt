@@ -6,4 +6,7 @@ Why might you want to always pull changes manually rather than having Git automa
 
 You may always want to pull changes manually as you may not finish a change in one sitting. Meaning a half edited file will be uploaded to the remote for people to see which you might not want them to until its finished.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are complete copies of repositories within GitHub only. Clones are complete copies of repositories from GitHub to your local computer or just copies of repositories within your local computer. Branches are used within your repositorie to create different routes of code without effecting your master
 
