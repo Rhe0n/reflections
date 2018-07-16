@@ -18,4 +18,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 You would need to find another file sharing website or send multiple emails of your code/files in zip files to who you're wishing to colaborate with. I dont think this would be easier. Merge problems might not happen as often but there would be a lot more back and forth.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would want to make changes in a separate branch when you want to try something new that could potentially break your master. The benefits are you can share these branches so others can collabirate on it without effecting the master.
+
 
